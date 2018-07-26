@@ -8,8 +8,8 @@ Automatic Update Best AI/ML Models for Web AI/ML Applications like online house 
 
 ## Technologies well-suited to challenges
 ![GitHub Logo](/jenkins.png)
-Format: ![Alt Text](url)
-
+![GitHub Logo](/kubernetes.png)
+![GitHub Logo](/docker.png)
 
 ## Proposed architecture
 
