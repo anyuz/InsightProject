@@ -1,4 +1,4 @@
-# devops_insight
+# Devops Insight
 
 ## Project Idea 
 
