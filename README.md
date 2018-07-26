@@ -8,6 +8,10 @@ Automatic Update Best AI/ML Models for Web AI/ML Applications like online house 
 
 ## Technologies well-suited to challenges
 
+
+
 ## Proposed architecture
+
+
 
 ## Data
