@@ -12,7 +12,7 @@ Automatic Update Best AI/ML Models for Web AI/ML Applications like online house 
 ![GitHub Logo](/docker.png)
 
 ## Proposed architecture
-![GitHub Logo](/Arcetacture.png)
-https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ci-cd-flask
+![GitHub Logo](/Architecture.png)
+![Blog](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ci-cd-flask)
 
 ## Data and Models
