@@ -1,4 +1,4 @@
-# DevOps pipline for Artificial Intelligence (AI) applications: Continuous Integration and Continuous Delopyment with Docker, Kubernetes and Jenkins
+# DevOps pipline for AI applications: CI and CD with Docker, Kubernetes and Jenkins
 
 ## Project Idea 
 
