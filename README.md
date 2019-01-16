@@ -16,3 +16,7 @@ Automatic Update Best AI/ML Models for Web AI/ML Applications like online house 
 [Blog link](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ci-cd-flask)
 ![GitHub Logo](/myAr.jpg)
 ## Data and Models
+ 
+ Example 1: House Price Model Web App
+ 
+ 
