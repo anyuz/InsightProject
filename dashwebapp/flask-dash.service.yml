@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+ labels:
+ k8s - app: flask-dash-sample
+ name: flask-dash-sample
+ namespace: flask-dash
+ spec:
+ type: NodePort
+ports:
+ -port: 5035
+selector:
+ k8s - app: flask-dash-sample
+ 

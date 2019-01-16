@@ -1,0 +1,25 @@
+apiVersion: v1beta1
+kind: Deployment
+metadata:
+ name: flask-dash-sample
+ namespace: flask-dash
+ spec:
+ replicas: 1
+template:
+ metadata:
+ labels:
+ k8s - app: flask-dash-sample
+ spec:
+ containers:
+ -name: flask-dash-sample
+ image: flask-sample-one : v1
+ imagePullPolicy: "IfNotPresent"
+ports:
+ -containerPort: 5035
+volumeMounts:
+ -mountPath: /app-data
+name: flask-dash-sample
+ volumes:
+ -name: flask-dash-sample
+ persistentVolumeClaim:
+ claimName: appclaim1
